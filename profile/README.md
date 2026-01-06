@@ -16,10 +16,10 @@
   An advanced AI module designed for deep personalization and generative creativity. Serving as the "brain" across our entire brand portfolio.
 
 ### 🛍️ Brands & Ventures
-- **[MUMELT](https://mumelt.com)** (`mumelt.com`): *Aesthetics of Fortune.* (Digital Assets)
+- **[Mumelt](https://mumelt.com)** (`mumelt.com`): *Aesthetics of Fortune.* (Digital Assets)
 - **[Guardian Jacket](https://guardianjacket.com)** (`guardianjacket.com`): *Imagination Visualized.* (Global Niche Market)
-- **[Melt Boy](https://meltboy.com)** (`meltboy.com`): *Unlabeled Melt Culture.* (Coming Soon)
-- **[Melt Gallery](https://melt.gallery)** (`melt.gallery`): *Art Melts Boundaries.* (Coming Soon)
+- **[MELTBOY](https://meltboy.com)** (`meltboy.com`): *Unlabeled Melt Culture.* (Coming Soon)
+- **[MELT Gallery](https://melt.gallery)** (`melt.gallery`): *Art Melts Boundaries.* (Coming Soon)
 
 ---
 
