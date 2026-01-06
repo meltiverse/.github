@@ -1,33 +1,43 @@
 # Meltiverse | Reality Unbound
 
-**Meltiverse** is a creative technology studio building the next generation of Digital-on-Demand (DoD) and Print-on-Demand (PoD) ecosystems. We bridge the gap between imagination and reality through our proprietary engine and AI core.
+**Meltiverse Co., Ltd.** is a creative technology studio building the next generation of **Digital-on-Demand (DoD)** and **Print-on-Demand (PoD)** ecosystems.
 
-## 🌌 The Ecosystem
-
-### 🏢 Corporate
-- **[Meltiverse](https://meltiverse.co)** (`meltiverse.co`): The Headquarters. Where vision meets execution.
-
-### ⚙️ The Engine
-- **[Meltify](https://meltify.app)** (`meltify.app`): *Code with a Pulse.*
-  Our core proprietary engine powered by **Next.js**, **Supabase**, and **Turborepo**. It handles the complex orchestration of commerce, manufacturing, and logistics.
-
-### 🧠 The Intelligence
-- **[MeltBrain](https://meltbrain.ai)** (`meltbrain.ai`): *Fluid Intelligence.*
-  An advanced AI module designed for deep personalization and generative creativity. Serving as the "brain" across our entire brand portfolio.
-
-### 🛍️ Brands & Ventures
-- **[Mumelt](https://mumelt.com)** (`mumelt.com`): *Aesthetics of Fortune.* (Digital Assets)
-- **[Guardian Jacket](https://guardianjacket.com)** (`guardianjacket.com`): *Imagination Visualized.* (Global Niche Market)
-- **[MELTBOY](https://meltboy.com)** (`meltboy.com`): *Unlabeled Melt Culture.* (Coming Soon)
-- **[MELT Gallery](https://melt.gallery)** (`melt.gallery`): *Art Melts Boundaries.* (Coming Soon)
+We bridge the gap between imagination and reality by orchestrating our proprietary commerce engine with fluid artificial intelligence.
 
 ---
 
-## 🛠️ Tech Stack
-- **Framework:** Next.js (Turbo)
-- **Database:** Supabase
-- **Language:** TypeScript, Python (AI Core)
-- **Infrastructure:** Vercel
+## 🌌 The Ecosystem Architecture
+
+### 🛠️ The Core Infrastructure (Proprietary Tech)
+*The heartbeat and brain of our operations.*
+
+* **[Meltify™](https://meltify.app)** (`meltify.app`)
+    * *The Execution Engine.* An advanced orchestration platform managing complex made-to-order workflows, production routing, and digital delivery.
+* **[MeltBrain™](https://meltbrain.ai)** (`meltbrain.ai`)
+    * *The Intelligence Layer.* A cognitive AI module driving generative assets, adaptive personas, and predictive commerce logic.
+
+### 🛍️ Venture Portfolio (First-Party Brands)
+*Demonstrating our technology in live markets.*
+
+* **[MUMELT](https://mumelt.com)** (`mumelt.com`)
+    * *Vertical:* Digital Assets & Belief-based Lifestyle.
+* **[Guardian Jacket](https://guardianjacket.com)** (`guardianjacket.com`)
+    * *Vertical:* Niche Fashion & Physical Goods.
+* **[Melt Gallery](https://melt.gallery)** (`melt.gallery`)
+    * *Vertical:* Generative Art & Experimental Media.
+* **Melt Boy** (`meltboy.com`) *(In Development)*
+    * *Vertical:* Street Culture & Unlabeled Fashion.
+
+---
+
+## 📡 Contact & Corporate
+
+We are currently focused on scaling our internal ventures.
+For strategic partnerships or investment signals:
+
+* **Corporate:** [hello@meltiverse.co](mailto:hello@meltiverse.co)
+* **MeltBrain Lab:** [cortex@meltbrain.ai](mailto:cortex@meltbrain.ai)
+* **Engine Team:** [dev@meltify.app](mailto:dev@meltify.app)
 
 ---
 *© 2026 Meltiverse Co., Ltd. All rights reserved.*
