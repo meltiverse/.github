@@ -1,24 +1,33 @@
-# Meltiverse 🌌
+# Meltiverse | Reality Unbound
 
-### Reality Unbound.
+**Meltiverse** is a creative technology studio building the next generation of Digital-on-Demand (DoD) and Print-on-Demand (PoD) ecosystems. We bridge the gap between imagination and reality through our proprietary engine and AI core.
 
-**Meltiverse Co., Ltd.** is a creative technology lab bridging the gap between virtual assets and physical goods.
+## 🌌 The Ecosystem
+
+### 🏢 Corporate
+- **[Meltiverse](https://meltiverse.co)** (`meltiverse.co`): The Headquarters. Where vision meets execution.
+
+### ⚙️ The Engine
+- **[Meltify](https://meltify.app)** (`meltify.app`): *Code with a Pulse.*
+  Our core proprietary engine powered by **Next.js**, **Supabase**, and **Turborepo**. It handles the complex orchestration of commerce, manufacturing, and logistics.
+
+### 🧠 The Intelligence
+- **[MeltBrain](https://meltbrain.ai)** (`meltbrain.ai`): *Fluid Intelligence.*
+  An advanced AI module designed for deep personalization and generative creativity. Serving as the "brain" across our entire brand portfolio.
+
+### 🛍️ Brands & Ventures
+- **[MUMELT](https://mumelt.com)** (`mumelt.com`): *Aesthetics of Fortune.* (Digital Assets)
+- **[Guardian Jacket](https://guardianjacket.com)** (`guardianjacket.com`): *Imagination Visualized.* (Global Niche Market)
+- **[Melt Boy](https://meltboy.com)** (`meltboy.com`): *Unlabeled Melt Culture.* (Coming Soon)
+- **[Melt Gallery](https://melt.gallery)** (`melt.gallery`): *Art Melts Boundaries.* (Coming Soon)
 
 ---
 
-## 🏗 Core Technology
-The heartbeat of our ecosystem:
-* 🚀 **[Meltify](https://github.com/meltify)** – *Code with a Pulse.*
-
-## 🪐 The Ecosystem
-Exploring the aesthetics of fortune and culture:
-* 🔮 **MUMELT** – *Aesthetics of Fortune.*
-* 🧥 **Guardian Jacket** – *Imagination Visualized.*
-* 🧢 **MELTBOY** – *Unlabeled Melt Culture.*
-* 🎨 **MELT Gallery** – *Art Melts Boundaries.*
+## 🛠️ Tech Stack
+- **Framework:** Next.js (Turbo)
+- **Database:** Supabase
+- **Language:** TypeScript, Python (AI Core)
+- **Infrastructure:** Vercel
 
 ---
-### 👥 Team
-* Founder: **[@treewai](https://github.com/treewai)**
-
-© 2026 Meltiverse Co., Ltd.
+*© 2026 Meltiverse Co., Ltd. All rights reserved.*
