@@ -19,13 +19,13 @@ We bridge the gap between imagination and reality by orchestrating our proprieta
 ### 🛍️ Venture Portfolio (First-Party Brands)
 *Demonstrating our technology in live markets.*
 
-* **[MUMELT](https://mumelt.com)** (`mumelt.com`)
+* **[Mumelt](https://mumelt.com)** (`mumelt.com`)
     * *Vertical:* Digital Assets & Belief-based Lifestyle.
 * **[Guardian Jacket](https://guardianjacket.com)** (`guardianjacket.com`)
-    * *Vertical:* Niche Fashion & Physical Goods.
-* **[Melt Gallery](https://melt.gallery)** (`melt.gallery`)
+    * *Vertical:* Digital Book Aesthetics & Literary Art
+* **[MELT Gallery](https://melt.gallery)** (`melt.gallery`)
     * *Vertical:* Generative Art & Experimental Media.
-* **Melt Boy** (`meltboy.com`) *(In Development)*
+* **[MELTBOY]** (`meltboy.com`)
     * *Vertical:* Street Culture & Unlabeled Fashion.
 
 ---
