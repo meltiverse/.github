@@ -25,7 +25,7 @@ We bridge the gap between imagination and reality by orchestrating our proprieta
     * *Vertical:* Digital Book Aesthetics & Literary Art
 * **[MELT Gallery](https://melt.gallery)** (`melt.gallery`)
     * *Vertical:* Generative Art & Experimental Media.
-* **[MELTBOY]** (`meltboy.com`)
+* **[MELTBOY](https://meltboy.com)** (`meltboy.com`)
     * *Vertical:* Street Culture & Unlabeled Fashion.
 
 ---
